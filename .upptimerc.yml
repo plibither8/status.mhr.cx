@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/plibither8/plibither8/master/logo.svg
   name: Status @ mhr.cx
   introTitle: "Mihir's services' status page"
-  introMessage: A status page for all my services hosted on my personal VPS. Getting too many downtimes recently :/. 
+  introMessage: A status page for all my services hosted on my personal VPS. Getting too many downtimes recently :/.
   navbar:
     - title: Status
       href: /
@@ -25,3 +25,7 @@ status-website:
 
 assignees:
   - plibither8
+
+commitMessages:
+  commitAuthorName: "plibother8"
+  commitAuthorEmail: "bot@mihir.ch"
