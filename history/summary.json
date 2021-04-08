@@ -40,17 +40,17 @@
     "url": "https://git.mihir.ch",
     "icon": "https://favicons.githubusercontent.com/git.mihir.ch",
     "slug": "git",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8341,
-    "timeDay": 8341,
-    "timeWeek": 8341,
-    "timeMonth": 8341,
-    "timeYear": 8341,
+    "time": 7036,
+    "timeDay": 7036,
+    "timeWeek": 7036,
+    "timeMonth": 7036,
+    "timeYear": 7036,
     "dailyMinutesDown": {}
   }
 ]
