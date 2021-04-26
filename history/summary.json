@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2847,
     "timeDay": 4706,
-    "timeWeek": 3512,
+    "timeWeek": 3544,
     "timeMonth": 2847,
     "timeYear": 2847,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://git.mihir.ch",
     "icon": "https://favicons.githubusercontent.com/git.mihir.ch",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
