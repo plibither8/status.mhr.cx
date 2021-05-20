@@ -22,7 +22,7 @@
     "url": "https://maloja.mihir.ch",
     "icon": "https://favicons.githubusercontent.com/maloja.mihir.ch",
     "slug": "maloja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3010,
     "timeDay": 2001,
-    "timeWeek": 2220,
+    "timeWeek": 2234,
     "timeMonth": 3390,
     "timeYear": 3010,
     "dailyMinutesDown": {}
