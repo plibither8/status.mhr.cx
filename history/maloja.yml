@@ -1,7 +1,7 @@
 url: https://maloja.mihir.ch
-status: up
-code: 200
-responseTime: 2352
-lastUpdated: 2021-06-11T23:14:54.736Z
+status: down
+code: 502
+responseTime: 4210
+lastUpdated: 2021-06-12T20:54:52.181Z
 startTime: Wed Apr 07 2021 04:35:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
