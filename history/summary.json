@@ -13,7 +13,7 @@
     "time": 2708,
     "timeDay": 1536,
     "timeWeek": 1253,
-    "timeMonth": 1728,
+    "timeMonth": 1718,
     "timeYear": 2708,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2816,
     "timeDay": 2413,
     "timeWeek": 2692,
-    "timeMonth": 2190,
+    "timeMonth": 2201,
     "timeYear": 2816,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://git.mihir.ch",
     "icon": "https://favicons.githubusercontent.com/git.mihir.ch",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 3230,
     "timeDay": 2196,
     "timeWeek": 3122,
-    "timeMonth": 2766,
+    "timeMonth": 2798,
     "timeYear": 3230,
     "dailyMinutesDown": {}
   }
