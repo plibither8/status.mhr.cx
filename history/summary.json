@@ -4,17 +4,17 @@
     "url": "https://mhr.cx",
     "icon": "https://favicons.githubusercontent.com/mhr.cx",
     "slug": "mhr-url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2004,
-    "timeDay": 8444,
-    "timeWeek": 3325,
-    "timeMonth": 2362,
-    "timeYear": 1972,
+    "time": 2030,
+    "timeDay": 7184,
+    "timeWeek": 3880,
+    "timeMonth": 2593,
+    "timeYear": 1999,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 773,
     "timeWeek": 744,
     "timeMonth": 747,
-    "timeYear": 1660,
+    "timeYear": 1640,
     "dailyMinutesDown": {}
   },
   {
